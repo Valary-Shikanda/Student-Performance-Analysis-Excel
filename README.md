@@ -11,13 +11,13 @@ Analysis of 5,000 student records to identify the key drivers of academic perfor
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To determine the strongest predictors of student performance and build an interactive dashboard that enables exploration of academic, behavioral and support-related factors affecting GPA.
 
 ---
 
-## 📌 Business Problem
+##  Business Problem
 
 Educational institutions often make decisions about student performance interventions based on assumptions rather than data. This leads to inefficient resource allocation and limited impact on student outcomes. This analysis addresses that gap by identifying evidence-based drivers of academic performance.
 
@@ -88,7 +88,7 @@ All six KPIs update dynamically when slicers are applied.
 | Grade A Students | 2,175 |
 | Grade D Students | 650 |
 | Pass Rate | 87.0% |
-| Avg Study Time | 10.03 hrs |
+| Avg Study Time | 10.03 |
 
 ### Filters / Slicers
 All four slicers are connected to the KPIs, charts and Grade Distribution Summary table — every element on the dashboard updates simultaneously when a filter is applied.
@@ -113,15 +113,15 @@ A dynamic pivot table displaying grade class breakdown that updates with all fou
 
 ---
 
-## 📊 Key Drivers of Performance
+## Key Drivers of Performance
 
 | Factor | Impact Level | Effect |
 |---|---|---|
-| Absences | 🔴 High | Strong negative impact on GPA — 0.73 GPA difference |
-| Study Time | 🔴 High | Strong positive impact on GPA — 0.71 GPA difference |
-| Parental Support | 🟡 Medium | Moderate positive influence — 0.38 GPA difference |
-| Tutoring | 🟢 Low | Minor improvement — 0.11 GPA difference |
-| Demographics | ⚪ Minimal | No significant impact — less than 0.05 difference |
+| Absences | High | Strong negative impact on GPA — 0.73 GPA difference |
+| Study Time | High | Strong positive impact on GPA — 0.71 GPA difference |
+| Parental Support | Medium | Moderate positive influence — 0.38 GPA difference |
+| Tutoring | Low | Minor improvement — 0.11 GPA difference |
+| Demographics | Minimal | No significant impact — less than 0.05 difference |
 
 ---
 
@@ -155,7 +155,7 @@ A dynamic pivot table displaying grade class breakdown that updates with all fou
 
 ## Dashboard Preview
 
-![Student Performance Dashboard](https://raw.githubusercontent.com/Valary-Shikanda/Excel-Student-Performance-Analysis/main/dashboard.PNG)
+![Student Performance Dashboard](Dashboard.PNG)
 
 ---
 
