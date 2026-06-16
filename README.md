@@ -164,7 +164,7 @@ A dynamic pivot table displaying grade class breakdown that updates with all fou
 | File | Description |
 |---|---|
 | `Student Performance Analysis.xlsx` | Full Excel workbook with RAW DATA, CLEAN DATA, ANALYSIS and DASHBOARD sheets |
-| `dashboard.PNG` | Dashboard preview image |
+| `Dashboard.PNG` | Dashboard preview image |
 | `README.md` | Project documentation |
 
 ---
